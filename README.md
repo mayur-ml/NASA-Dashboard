@@ -1,13 +1,11 @@
-
-</head>
-<body>
   <h1>NASA Data Dashboard</h1>
+  <a href="https://mayur-ml.github.io/NASA-Dashboard/">Visit the NASA Dashboard</a>
   <p>I have a keen interest in checking NASA's latest news, photos, and updates, which typically requires visiting multiple websites. To streamline this process, I've developed a static website that consolidates all the latest information into one place.</p>
   <p>Delve into NASA's freshest news, photos, and updates—all in one convenient hub. No more hopping between websites; everything you seek, unified right here.</p>
   <p>If you'd like to contribute or discuss anything related, please feel free to make a GitHub pull request or contact me at <a href="mailto:myringole@gmail.com">myringole@gmail.com</a>.</p>
   <p>Thank you for visiting!</p>
+  <p>This website was made by ChatGPT in 20 minutes.</p>
   <hr>
-
   <h2>APIs Used</h2>
   <ul>
     <li>APOD: Astronomy Picture of the Day</li>
